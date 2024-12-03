@@ -56,7 +56,7 @@ This section highlights the enhancements made in project2.js file with given tas
 ## GitHub Repository
 
 You can find the source code and project files on GitHub:  
-[GitHub Repository Link](https://github.com/yourusername/webgl-3d-object-viewer)   
+[GitHub Repository Link](https://github.com/cefeyilmaz/WebGL-3D-Object-Viewer)   
 
 
 
